@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Łukasz. I'm junior frontend developer.
 <!--
 **Lukaszwebster/Lukaszwebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
