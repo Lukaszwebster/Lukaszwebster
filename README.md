@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Łukasz. I'm junior frontend developer.
-- 🔭 I’m currently working on weather app.
-- 🌱 I’m currently learning Vue JS
+- 🔭 I’m currently working on dental website.
+- 🌱 I’m currently learning Vue JS/tailwindcss
 - 📫 How to reach me: l.samcik@gmail.com
 <!--
 **Lukaszwebster/Lukaszwebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
