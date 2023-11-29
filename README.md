@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Łukasz. I'm junior frontend developer.
-- 🔭 I’m currently working on dental website.
+- 🔭 I’m currently working on first project in vue.
 - 🌱 I’m currently learning Vue JS/tailwindcss
 - 📫 How to reach me: l.samcik@gmail.com
 <!--
